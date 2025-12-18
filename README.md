@@ -28,8 +28,8 @@ CPU-only execution is not supported or may be impractically slow.
 No formal installation is required beyond installing the dependencies listed above.  
 The repository can be cloned using:
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-cd REPOSITORY_NAME
+git clone https://github.com/RowitchLab/Code_for_Cux2_Atf4_paper.git
+cd Code_for_Cux2_Atf4_paper
 ```
 
 ## Usage
