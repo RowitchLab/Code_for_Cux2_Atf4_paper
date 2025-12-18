@@ -1,9 +1,6 @@
-# Code for Cux2 and Atf4 paper
+# Analysis Code for Cux2 and Atf4 paper
 "DNA damage burden causes selective CUX2 neuron loss in neuroinflammation"
 "Expansion of outer cortical layer Cux2+ neurons required selective adaptations for DNA repair"
-
-
-# Analysis code for [Manuscript Title]
 
 This repository contains analysis scripts used to generate the results and figures reported in the associated manuscript.  
 The code is provided for transparency and reproducibility and is not intended as a standalone software tool.
