@@ -14,7 +14,6 @@ The code is provided for transparency and reproducibility and is not intended as
 ### Software dependencies
 - Python (≥ 3.9)
 - GPU-accelerated deep learning framework (e.g. PyTorch)
-- NVIDIA CUDA Toolkit (Linux only)
 
 ### Tested platforms
 - Ubuntu 20.04 with NVIDIA GPU and CUDA support
