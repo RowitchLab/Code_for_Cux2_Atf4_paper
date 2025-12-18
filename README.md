@@ -12,7 +12,7 @@ The code is provided for transparency and reproducibility and is not intended as
 - macOS (Apple silicon / ARM)
 
 ### Software dependencies
-- Python (≥ 3.9)
+- Python (≥ 3.8)
 - GPU-accelerated deep learning framework (e.g. PyTorch)
 
 ### Tested platforms
