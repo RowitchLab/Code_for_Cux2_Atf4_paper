@@ -30,7 +30,7 @@ The repository can be cloned using:
 ```bash
 git clone https://github.com/USERNAME/REPOSITORY_NAME.git
 cd REPOSITORY_NAME
-
+```
 
 ## Usage
 
