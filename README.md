@@ -3,9 +3,19 @@
 "Expansion of outer cortical layer Cux2+ neurons required selective adaptations for DNA repair"
 
 
-## :pencil2: Summary
+## :pencil2: Project summary
 This repository contains analysis scripts used to generate the results and figures reported in the associated manuscript.  
 The code is provided for transparency and reproducibility and is not intended as a standalone software tool.
+
+## Repository structure
+
+- `cellprofiler/` — CellProfiler scripts
+- `snRNAseq/` — snRNA-seq analysis notes and scripts.
+- `README.md` — this file (overview and reproducibility notes).
+
+
+## Data & availability
+- GEO(uploading) 
 
 ## :computer: System requirements
 
@@ -43,6 +53,8 @@ Users may adapt the code to their own data by modifying input files and paramete
 The provided scripts allow reproduction of the main quantitative results in the manuscript using the specified datasets.
 Public datasets are referenced by accession numbers in the manuscript.
 
+- See cellprofiler/readme.md for project-specific settings and notes.
+- See snRNAseq/ReadMe.md for dataset-specific instructions.
 ## :notes: Notes
 
 No standalone demo dataset is provided, as the code is tailored to the analyses in this study.
