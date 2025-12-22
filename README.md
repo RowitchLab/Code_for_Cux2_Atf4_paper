@@ -7,14 +7,14 @@
 This repository contains analysis scripts used to generate the results and figures reported in the associated manuscript.  
 The code is provided for transparency and reproducibility and is not intended as a standalone software tool.
 
-## Repository structure
+## :flags: Repository structure
 
 - `cellprofiler/` — CellProfiler scripts
 - `snRNAseq/` — snRNA-seq analysis notes and scripts.
 - `README.md` — this file (overview and reproducibility notes).
 
 
-## Data & availability
+## :floppy_disk: Data & availability
 - GEO(uploading) 
 
 ## :computer: System requirements
