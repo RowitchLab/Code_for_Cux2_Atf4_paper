@@ -2,10 +2,12 @@
 "DNA damage burden causes selective CUX2 neuron loss in neuroinflammation"
 "Expansion of outer cortical layer Cux2+ neurons required selective adaptations for DNA repair"
 
+
+## :pencil2: Summary
 This repository contains analysis scripts used to generate the results and figures reported in the associated manuscript.  
 The code is provided for transparency and reproducibility and is not intended as a standalone software tool.
 
-## System requirements
+## :computer: System requirements
 
 ### Operating systems
 - Linux with NVIDIA GPU support
@@ -31,20 +33,27 @@ git clone https://github.com/RowitchLab/Code_for_Cux2_Atf4_paper.git
 cd Code_for_Cux2_Atf4_paper
 ```
 
-## Usage
+## :pushpin: Usage
 
 The scripts correspond to the analyses and figures reported in the manuscript.
 Users may adapt the code to their own data by modifying input files and parameters as indicated in the scripts.
 
-## Reproducibility
+## :golf: Reproducibility
 
 The provided scripts allow reproduction of the main quantitative results in the manuscript using the specified datasets.
 Public datasets are referenced by accession numbers in the manuscript.
 
-## Notes
+## :notes: Notes
 
 No standalone demo dataset is provided, as the code is tailored to the analyses in this study.
 
-## License
+## :key: License
 
 MIT License
+
+##  :email: Contact
+For questions or data requests, contact the corresponding author or lab. Add an email or lab contact here.
+
+
+## :green_book: Citation
+When the manuscript is available, please add the full citation here. Example placeholder:
